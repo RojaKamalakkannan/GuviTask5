@@ -1,0 +1,109 @@
+body {
+
+    width: 100vw;
+  
+    height: 100vh;
+  
+    overflow: hidden;
+  
+    display: flex;
+  
+    justify-content: center;
+  
+    align-items: center;
+  
+    background-color: #222831;
+  
+    font-family: sans-serif;
+  
+  }
+  body{
+    
+    background-color: #BCCCC4;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%23BCCCC4' width='11' height='11'/%3E%3Crect fill='%23baccc4' x='10' width='11' height='11'/%3E%3Crect fill='%23b8ccc3' y='10' width='11' height='11'/%3E%3Crect fill='%23b5cbc3' x='20' width='11' height='11'/%3E%3Crect fill='%23b3cbc3' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23b1cbc3' y='20' width='11' height='11'/%3E%3Crect fill='%23aecbc3' x='30' width='11' height='11'/%3E%3Crect fill='%23accac3' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%23a9cac3' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%23a7cac3' y='30' width='11' height='11'/%3E%3Crect fill='%23a4cac4' x='40' width='11' height='11'/%3E%3Crect fill='%23a2c9c4' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%239fc9c5' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%239cc9c5' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%239ac8c6' y='40' width='11' height='11'/%3E%3Crect fill='%2397c8c7' x='50' width='11' height='11'/%3E%3Crect fill='%2394c8c8' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%2392c7c9' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%238fc7ca' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%238dc7cb' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%238ac6cc' y='50' width='11' height='11'/%3E%3Crect fill='%2388c6cd' x='60' width='11' height='11'/%3E%3Crect fill='%2385c5cf' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%2383c5d0' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%2380c4d1' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%237ec4d2' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%237cc3d4' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%2379c2d5' x='70' width='11' height='11'/%3E%3Crect fill='%2377c2d7' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%2376c1d8' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%2374c0da' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%2372c0db' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%2371bfdd' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%236fbede' x='80' width='11' height='11'/%3E%3Crect fill='%236ebde0' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%236dbde1' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%236dbce2' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%236cbbe4' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%236cbae5' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%236cb9e6' x='90' width='11' height='11'/%3E%3Crect fill='%236cb8e8' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%236db7e9' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%236eb6ea' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%236fb5eb' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%2370b3ec' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%2372b2ed' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%2374b1ee' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%2376b0ee' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%2378aeef' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%237aadef' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%237dacf0' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%2380aaf0' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%2383a9f0' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%2386a7f0' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%2389a6f0' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%238da4f0' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%2390a2f0' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%2394a1ef' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%23979fef' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%239B9DEE' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;;
+   
+}
+#title{
+    align-items: center;
+    margin-top:-650px;
+    margin-left:-500px;
+}
+input{
+    width: 7.9em;
+}
+.bb{
+   margin-left:-40em;
+   font-size: 30px;
+   border: 2px solid rgb(202, 34, 34);
+   width: 8em;
+}
+button{
+    padding:8px;
+}
+#description{
+
+  margin-top:-550px;
+  margin-left:-5px;
+}
+#box{
+    background-color:darkgrey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container {
+    max-width: 400px;
+    margin: 10vh auto 0 auto;
+    box-shadow: 0px 0px 43px 17px rgba(153,153,153,1);
+}
+#display {
+    text-align: right;
+    height: 70px;
+    line-height: 70px;
+    padding: 16px 8px;
+    font-size: 25px;
+}
+.buttons {
+    display: grid;
+    border-bottom: 1px solid #999;
+    border-left: 1px solid#999;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.buttons > div {
+    border-top: 1px solid #999;
+    border-right: 1px solid#999;
+}
+.button {
+    border: 0.5px solid #999;
+    line-height: 100px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+}
+#equal {
+    background-color: rgb(85, 85, 255);
+    color: white;
+}
+
+.button:hover {
+    background-color: #323330;
+    color:darkturquoise;
+    transition: 0.5s ease-in-out;
+} */
